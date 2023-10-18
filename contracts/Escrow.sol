@@ -24,4 +24,6 @@ contract Escrow {
 		emit Approved(balance);
 		isApproved = true;
 	}
+
+	
 }
