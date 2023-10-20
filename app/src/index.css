@@ -1,7 +1,8 @@
 body {
-  background-color: #eee;
+  background-color: black;
   display: flex;
   font-family: 'Muli', sans-serif;
+  color: white;
 }
 
 .contract, .existing-contracts {
@@ -9,7 +10,7 @@ body {
   display: inline-block;
   padding: 40px;
   border: 1px solid #ddd;
-  background-color: #fff;
+  background-color: #3f3d3d;
 }
 
 h1 {
@@ -32,7 +33,7 @@ input[type="text"] {
 }
 
 .button {
-  background-color: #f58427;
+  background-color: #7b3c08;
   color: white;
   text-align: center;
   font-weight: bold;
